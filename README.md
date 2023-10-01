@@ -20,6 +20,7 @@ Programa en Python que utiliza las bibliotecas:
 * OpenCV (cv2)
 * MediaPipe (mediapipe)
 * NumPy
+
 Los cuales son necesarios para realizar la detección y clasificación de gestos de poses humanas en tiempo real a través de una cámara web.
 
 # Total Estimado💰
